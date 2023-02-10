@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">채팅앱</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+</resources>
